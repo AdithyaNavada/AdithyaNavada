@@ -37,7 +37,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyanavada&show_icons=true&locale=en&layout=compact" alt="adithyanavada" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AdithyaNavada&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdithyaNavada&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaNavada&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyanavada&show_icons=true&locale=en" alt="adithyanavada" /></p>
+---
 
